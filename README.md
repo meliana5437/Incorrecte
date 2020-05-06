@@ -1,1 +1,1 @@
-# pagina-error
+Aquest resposta és incorrecta
